@@ -1,0 +1,9 @@
+"
+cody what ur essentially asking for due to the style of the profile deleting the elements and re adding them on hovering will take a bit of performance issues
+making display as hidden then changing it on hover makes them disappear visually but you can still see the links url prompt on the bottom left
+and since the box is responsive to changes in size depending on whats inside the container it makes it appear larger than it should
+so basically what im telling you is your idea is unrealistic unless you want to visually piss me off
+plus the drop down is shit for socials
+ill add it for other things such as showing a handle for the users e.g. "@user"
+if you want it you can code that yourself aint no way i am doing that. its an unnecessary pain in my ass and id rather walk on hot coal
+"
